@@ -1,0 +1,12 @@
+D:\Blogging\Authentication\MVCAuthenticationSample\DataAccess\bin\Debug\DataAccess.dll
+D:\Blogging\Authentication\MVCAuthenticationSample\DataAccess\bin\Debug\DataAccess.pdb
+D:\Blogging\Authentication\MVCAuthenticationSample\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Blogging\Authentication\MVCAuthenticationSample\DataAccess\obj\Debug\DataAccess.dll
+D:\Blogging\Authentication\MVCAuthenticationSample\DataAccess\obj\Debug\DataAccess.pdb
+D:\Blogging\Authentication\MVCAuthenticationSample\DataAccess\bin\Debug\DataAccess.dll.config
+E:\Blogging\MVC\Authentication\MVCAuthenticationSample\DataAccess\bin\Debug\DataAccess.dll.config
+E:\Blogging\MVC\Authentication\MVCAuthenticationSample\DataAccess\bin\Debug\DataAccess.dll
+E:\Blogging\MVC\Authentication\MVCAuthenticationSample\DataAccess\bin\Debug\DataAccess.pdb
+E:\Blogging\MVC\Authentication\MVCAuthenticationSample\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Blogging\MVC\Authentication\MVCAuthenticationSample\DataAccess\obj\Debug\DataAccess.dll
+E:\Blogging\MVC\Authentication\MVCAuthenticationSample\DataAccess\obj\Debug\DataAccess.pdb

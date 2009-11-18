@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAuthenticationSample", "MVCAuthenticationSample\MVCAuthenticationSample.csproj", "{99EFFB12-B11A-4117-B982-AD3F8DF24217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{ADE2E4E4-34F1-440B-B8DE-B6FF3BD6324C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EFFB12-B11A-4117-B982-AD3F8DF24217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EFFB12-B11A-4117-B982-AD3F8DF24217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EFFB12-B11A-4117-B982-AD3F8DF24217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EFFB12-B11A-4117-B982-AD3F8DF24217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE2E4E4-34F1-440B-B8DE-B6FF3BD6324C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE2E4E4-34F1-440B-B8DE-B6FF3BD6324C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE2E4E4-34F1-440B-B8DE-B6FF3BD6324C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE2E4E4-34F1-440B-B8DE-B6FF3BD6324C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
